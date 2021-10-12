@@ -1,0 +1,1 @@
+# 9-gelismis-component-kullanimi-baslangic-kodu
